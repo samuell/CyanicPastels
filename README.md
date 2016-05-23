@@ -1,4 +1,4 @@
-# Cyanic Pastels
+# Cyanic Pastels Color Theme
 
 A simple, to-the-point dark theme, with a nice CMYK-like color scale. Inspired
 by the Visual Studio Dark theme as well as other widespread themes such as the
@@ -11,4 +11,8 @@ the eye, according to undersigned.
 
 ![Cyanic Pastels Color Theme Screenshot](CyanicPastels.png)
 
-Author: Samuel Lampa
+### For more information
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+**Enjoy!**
