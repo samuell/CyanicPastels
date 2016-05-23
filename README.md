@@ -11,8 +11,5 @@ the eye, according to undersigned.
 
 ![Cyanic Pastels Color Theme Screenshot](http://i.imgur.com/aix6nNx.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Links
+* [This project's Github repo](https://github.com/samuell/CyanicPastels)
