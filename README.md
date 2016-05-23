@@ -9,7 +9,7 @@ tend to be somewhat evenly distributed across most code. The addition of a
 CMYK like color shift, gives the "cyanic" feel, which is more pleasing to
 the eye, according to undersigned.
 
-![Cyanic Pastels Color Theme Screenshot](http://i.imgur.com/aix6nNx.png)
+![Cyanic Pastels Color Theme Screenshot](http://i.imgur.com/ISlN4iI.png)
 
 ## Links
 * [This project's Github repo](https://github.com/samuell/CyanicPastels)
