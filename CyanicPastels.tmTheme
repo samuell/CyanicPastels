@@ -278,7 +278,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#70727E</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -352,7 +352,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#687687</string>
+				<string>#efefef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -599,7 +599,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#608B4E</string>
+				<string>#8CD0D3</string>
 			</dict>
 		</dict>
 	</array>
@@ -608,7 +608,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.visual_studio_dark</string>
+	<string>theme.dark.cyanic_pastels</string>
 	<key>comment</key>
     <string>A simple, to-the-point dark theme, with a nice CMYK-like color scale. Inspired 
         by the Visual Studio Dark theme as well as other widespread themes such as the
