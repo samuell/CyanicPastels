@@ -9,7 +9,7 @@ tend to be somewhat evenly distributed across most code. The addition of a
 CMYK like color shift, gives the "cyanic" feel, which is more pleasing to
 the eye, according to undersigned.
 
-![Cyanic Pastels Color Theme Screenshot](CyanicPastels.png)
+![Cyanic Pastels Color Theme Screenshot](http://i.imgur.com/aix6nNx.png)
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
