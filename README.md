@@ -11,6 +11,25 @@ the eye, according to undersigned.
 
 ![Cyanic Pastels Color Theme Screenshot](http://i.imgur.com/L0heozq.png)
 
+## Installation
+
+1. Inside visual studio code, hit `Ctrl` + `Shift` + `P`
+2. start typing: `theme-cyanic...`
+3. Hit enter
+4. The extension should now install in the background.
+5. VSCode might ask to be restarted before the theme takes effect.
+
+## Switching color themes
+
+After installation, do this to change to this theme:
+
+1. Inside visual studio code, hit `Ctrl` + `Shift` + `P`
+2. Start typing `Theme...`
+3. Select: "Preferences: Color Theme"
+4. Hit enter
+5. Select the "Cyanic Pastels" theme.
+
 ## Links
-* [This project's Github repo](https://github.com/samuell/CyanicPastels)
+* [Github repo](https://github.com/samuell/CyanicPastels)
+* [Issue tryacker](https://github.com/samuell/CyanicPastels/issues) - Report any issues or suggestions here!
 * [This theme on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SamuelLampa.theme-cyanicpastels)
