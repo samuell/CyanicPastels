@@ -13,3 +13,4 @@ the eye, according to undersigned.
 
 ## Links
 * [This project's Github repo](https://github.com/samuell/CyanicPastels)
+* [This theme on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SamuelLampa.theme-cyanicpastels)
