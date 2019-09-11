@@ -31,5 +31,5 @@ After installation, do this to change to this theme:
 
 ## Links
 * [Github repo](https://github.com/samuell/CyanicPastels)
-* [Issue tryacker](https://github.com/samuell/CyanicPastels/issues) - Report any issues or suggestions here!
+* [Issue tracker](https://github.com/samuell/CyanicPastels/issues) - Report any issues or suggestions here!
 * [This theme on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SamuelLampa.theme-cyanicpastels)
